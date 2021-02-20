@@ -9,7 +9,9 @@ The aim of this project is to create a data set that would be used by a streamin
 ETL process: 
 
 *Extract Wikipedia and Kaggle data fromn their respective files
+
 *Transform the data sets by cleaning them up and joining them together
+
 *Load the cleaned dataset into a SQL database
 
 ## Resources
